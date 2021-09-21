@@ -40,7 +40,7 @@ baseurl: "/resume-website" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     github: dbaldessari66
-    linkedin: www.linkedin.com/in/dylanbaldessari
+    linkedin: https://www.linkedin.com/in/dylanbaldessari
 
 # Set this to true to get LaTeX math equation support
 use_math: 
