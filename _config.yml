@@ -40,7 +40,7 @@ baseurl: "/resume-website" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     github: dbaldessari66
-    linkedin: https://www.linkedin.com/in/dylan-baldessari/
+    linkedin: www.linkedin.com/in/dylan-baldessari
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -49,7 +49,7 @@ use_math:
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
 annotations: false
@@ -58,7 +58,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: 208170937
 
 exclude:
   - docker-compose.yml
