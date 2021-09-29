@@ -1,9 +1,6 @@
----
-toc: false
-layout: post
-description: 
-categories: [markdown]
-title: Investing in a Pandemic
+Investing in a Pandemic
+12/25/2020
+Dylan Baldessari
 ---
 
 ## Introduction
