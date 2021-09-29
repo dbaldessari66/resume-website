@@ -128,7 +128,7 @@ ggplot(ETF, aes(Sectors, Total_Return))+
   geom_text(aes(label = Total_Return, vjust = -0.5))+
   labs(y = "Total Return", title = "Comparison of Returns of Sector ETF's")
 ```
-![Chart_2](/images/unnamed-chunk-6-1.png)
+![Chart_1](/images/unnamed-chunk-4-1.png)
 
 We can now see the XLI (Industrial) sector was the best performing
 sector during this time frame. We can clearly see the sectors investors
