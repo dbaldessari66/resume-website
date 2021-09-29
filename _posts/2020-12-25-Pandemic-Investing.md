@@ -1,9 +1,10 @@
-Investing in a Pandemic
-
-Dylan Baldessari
-
-12/25/2020
-
+---
+toc: False
+layout: post
+description: A minimal example of using markdown with fastpages.
+categories: [markdown]
+title: Investing During A Pandemic
+---
 
 
 ## Introduction
