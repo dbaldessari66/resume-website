@@ -1,8 +1,9 @@
 ## Investing in a Pandemic
 
+Dylan Baldessari
+
 12/25/2020
 
-Dylan Baldessari
 
 
 ## Introduction
