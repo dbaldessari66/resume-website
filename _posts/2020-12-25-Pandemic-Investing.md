@@ -134,7 +134,7 @@ XLY, XLI). Interestingly, these sectors all performed higher than 70%
 returns, however, the timing of the sectors performance is vastly
 different.
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](images/unnamed-chunk-6-1.png)<!-- -->
 ![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 We see the secular sectors outperform during the beginning and middle of
