@@ -1,7 +1,10 @@
-Investing In A Pandemic
-================
-Dylan Baldessari
-2020-12-25
+---
+toc: false
+layout: post
+description: A minimal example of using markdown with fastpages.
+categories: [markdown]
+title: An Example Markdown Post
+---
 
 ## Introduction
 
