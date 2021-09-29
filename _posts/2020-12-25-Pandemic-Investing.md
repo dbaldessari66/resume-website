@@ -128,7 +128,7 @@ ggplot(ETF, aes(Sectors, Total_Return))+
   labs(y = "Total Return", title = "Comparison of Returns of Sector ETF's")
 ```
 
-![My helpful screenshot](/images/unnamed-chunk-4-1.png)
+![Chart_1](/images/unnamed-chunk-4-1.png)
 
 We can now see the XLI (Industrial) sector was the best performing
 sector during this time frame. We can clearly see the sectors investors
@@ -137,8 +137,8 @@ XLY, XLI). Interestingly, these sectors all performed higher than 70%
 returns, however, the timing of the sectors performance is vastly
 different.
 
-![](resume-website/images/unnamed-chunk-6-1.png)<!-- -->
-![](resume-website/Pandemic-Investing_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![Chart_2](/images/unnamed-chunk-6-1.png)
+![Chart_3](/images/unnamed-chunk-7-1.png)
 
 We see the secular sectors outperform during the beginning and middle of
 the pandemic as it was a requirement to utilize these companies’
