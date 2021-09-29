@@ -1,9 +1,9 @@
 ---
 toc: false
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: 
 categories: [markdown]
-title: An Example Markdown Post
+title: Investing in a Pandemic
 ---
 
 ## Introduction
