@@ -229,7 +229,7 @@ ggplot(XLI_Real, aes(Net_Margin, Sales_Growth, color = Symbol))+
   geom_text(label = "Q4", x = 0.299, y = 0.337, size = 3.5, color = "black")
 ```
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![Chart_4](/images/unnamed-chunk-9-1.png)
 
 We do have to keep in mind the effects of Covid-19, many of these
 companies’ net margin has taken a hit due to the pandemic slowing down
@@ -268,7 +268,7 @@ ggplot() +
   labs(title = "Quartiles Return from March Low to Vaccine Approval")
 ```
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![Chart_5](/images/unnamed-chunk-10-1.png)
 
 Our theory on the market valuing growth over profitability is correct,
 with quartile 2 having the highest return of 102%. It is interesting to
@@ -297,7 +297,7 @@ ggplot(XLI_Real, aes(Sales_Growth, Multiple, color = Variable))+
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![Chart_6](/images/unnamed-chunk-11-1.png)
 
 I took a linear regression of the group’s multiples and sales growth to
 visualize a relationship between variables.
@@ -333,7 +333,7 @@ ggplot(Q_2, aes(x = Quarter,y = Revenue, color = Ticker)) +
   scale_color_manual(values=c("Green","Black","Yellow","Blue","Red","Purple","Orange"))
 ```
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![Chart_7](/images/unnamed-chunk-12-1.png)
 
 The Pandemic begins to show its effects from Quarter 16 through the
 present day. Trough revenues for the group are Quarter 2 of 2020 (18th
@@ -429,7 +429,7 @@ getSymbols(Industrials, src = "yahoo", from = "2020-03-23", to = "2020-11-18")
 candleChart(BA, TA = "addRSI();addSMA(n = 50)")
 ```
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![Chart_9](/images/unnamed-chunk-13-1.png)
 
 Boeing in recent months has been trading in a channel between $200 and
 $140. The November run-up is due to the anticipation of approval from
@@ -445,7 +445,7 @@ months.
 candleChart(CAT, TA = "addRSI();addSMA(n = 50)")
 ```
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![Chart_10](/images/unnamed-chunk-14-1.png)
 
 Caterpillar’s stock chart from the March low is a beautiful looking
 chart from a technical analysis standpoint. The chart has healthy
@@ -460,7 +460,7 @@ average indicated.
 candleChart(PCAR, TA = "addRSI();addSMA(n = 50)")
 ```
 
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![Chart_11](/images/unnamed-chunk-15-1.png)
 
 Paccar has been a very stable investment, which comes with no surprise
 as the beta is 1.05. The stock has been in consolidation since July’s
