@@ -135,7 +135,7 @@ returns, however, the timing of the sectors performance is vastly
 different.
 
 ![](resume-website/images/unnamed-chunk-6-1.png)<!-- -->
-![](Pandemic-Investing_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](resume-website/Pandemic-Investing_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 We see the secular sectors outperform during the beginning and middle of
 the pandemic as it was a requirement to utilize these companies’
