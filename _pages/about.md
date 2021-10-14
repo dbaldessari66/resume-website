@@ -8,7 +8,9 @@ permalink: /about/
 
 ## Contact Information
 Phone: (516)749-3529
+
 Email: dylan.baldessari@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/dylan-baldessari/
 
 ## Aspirations
